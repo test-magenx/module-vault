@@ -1,5 +1,5 @@
 {
-    "name": "test-magenx/module-vault",
+    "name": "magenxcommerce/module-vault",
     "description": "",
     "config": {
         "sort-packages": true
